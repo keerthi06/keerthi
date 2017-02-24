@@ -4,9 +4,9 @@ public class res{
     integer b = 10;
     integer c;
             c = a + b;
-        system.debug('@@@@@c'+c);
-        return c;
-        //system.debug('sfds'+c);
+        //system.debug('@@@@@c'+c);
         //return c;
+        system.debug('sfds'+c);
+        return c;
     }
 }
